@@ -1,2 +1,2 @@
-# my-repo
+# Quickstart
 getting started on github
